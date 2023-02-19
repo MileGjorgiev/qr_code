@@ -1,0 +1,35 @@
+body {
+    background-color: #d5e1ef;
+}
+p {
+    color: rgba(42,49,72,255);
+    width: 75%;
+    margin: 20px auto;
+}
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+h3 {
+    font-family: 'Poppins', sans-serif;
+    width: 80%;
+    margin: auto;
+    color: #1c2b43;
+}
+#container {
+    width: 300px;
+    text-align: center;
+    margin: 100px auto;
+    border: 20px white solid;
+    border-radius: 20px;
+    background-color: white;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.attribution {
+    color: #9c9ca6;
+}
